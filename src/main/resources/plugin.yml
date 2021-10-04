@@ -1,0 +1,4 @@
+name: Y255patch
+version: '${project.version}'
+main: dev.bleepo.Main
+api-version: 1.17
